@@ -1,5 +1,3 @@
----
-
 # 🎓 College Event Feedback Analysis 
 
 *Task:* Analyze student feedback from college events to uncover satisfaction trends and provide actionable suggestions for improvement using survey data.
@@ -74,11 +72,11 @@ A comprehensive data analysis report and visualizations highlighting student sat
 
 ---
 
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="https://github.com/Anna-Simmi"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anna-simmi-m-d-797ba8339"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="annasimmim@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>  
 
-### 📬 Contact
-
-For collaboration, feedback, or questions:
-*LinkedIn:* https://www.linkedin.com/in/dhanya-prabhu-315a2a339
-
----
