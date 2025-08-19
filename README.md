@@ -1,10 +1,5 @@
 🎓 College Event Feedback Analysis 
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000)](#powerbi)
-[![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=fff)](#excel)
-
 ---
-
-
 *Task:* Analyze student feedback from college events to uncover satisfaction trends and provide actionable suggestions for improvement using survey data.
 
 ---
