@@ -1,9 +1,6 @@
 🎓 College Event Feedback Analysis 
-<!-- Power BI (rectangular) -->
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000)
-
-<!-- Excel (rectangular) -->
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=fff)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000)](#powerbi)
+[![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=fff)](#excel)
 
 ---
 
